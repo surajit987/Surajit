@@ -1,0 +1,6 @@
+<div class="services__item">
+              <i class="fa-solid fa-pen-to-squre services__icon"></i>
+
+              <h3 class="services__title">Student Credit Card</h3>
+              <p class="services__description">Student credit card: a financial tool tailored for students, providing a low credit limit, rewards, and responsible spending opportunities, fostering financial literacy and responsible money management.</p>
+            </div>
